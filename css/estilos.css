@@ -1,9 +1,19 @@
 body {
     text-align: center;
-    font-family: "Arial";
+    font-family: "sans-serif";
     color: blueviolet;
+    margin: 0;
+    padding: 0;
 }
 
-.head-title {
-    color: blueviolet;
+#container {
+    width: 60%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid brown;
+    margin: 0 auto;
+}
+
+#container h1 {
+    font-size: 26px;
 }
