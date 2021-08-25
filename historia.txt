@@ -1,9 +1,11 @@
 mié 25 ago 2021 13:31:14 CDT
 
-Esta es mi historia, la historia de Rodolfo Briseño Rodríguez.
+Este archivo es parte de la historia de Rodolfo Briseño Rodríguez.
 
-Rodolfo tiene actualmente 36 años y contando, nacio en México y no ha vivido más que en México
+Rodolfo tiene actualmente 36 años y contando. 
+Nacio en México y no ha vivido más que en México
+Estudió la carrera de Física matemática.
+Ha tenido altas y bajas.
+Es una persona dedicada y atenta. No siempre ha sido cómo lo encontramos hoy.
 
-Este archivo de prueba es parte de su historia.
-
-Esta versión es tentativa y puede cambiar. Todavía está aprendiendo 
+Rodolfo todavía está aprendiendo. Cada día lo hace.
