@@ -1,9 +1,41 @@
 body {
     text-align: center;
-    font-family: "Arial";
+    font-family: sans-serif;
     color: blueviolet;
+    margin: 0;
+    padding: 0;
 }
 
-.head-title {
-    color: blueviolet;
+#container {
+    width: 60%;
+    padding: 0em;
+    text-align: center;
+    border: 1px solid brown;
+    margin: 0 auto;
+    margin-top: 1em;
+    box-shadow: 2px 4px 5px 3px rgba(0, 0, 0, 0.31);
+}
+
+#container h1 {
+    font-size: 26px;
+}
+
+#cabecera {
+    background: cyan;
+    color: darkgreen;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bolder;
+    box-shadow: 2px 4px 14px 0px #000000;
+}
+
+#cabecera #tagline {
+    font-weight: bold;
+    font-size: 0.8em;
+    margin: 1em 0 0 0;
+    color: rgb(7, 124, 7);
+}
+
+#post {
+    padding: 0.3em;
 }
