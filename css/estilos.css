@@ -2,6 +2,7 @@ body {
     text-align: center;
     font-family: sans-serif;
     color: blueviolet;
+    background: rgba(0, 0, 0, 0.815);
     margin: 0;
     padding: 0;
 }
@@ -13,7 +14,7 @@ body {
     border: 1px solid brown;
     margin: 0 auto;
     margin-top: 1em;
-    box-shadow: 2px 4px 5px 3px rgba(0, 0, 0, 0.31);
+    box-shadow: 3px 5px 6px 4px rgba(0, 0, 0, 0.31);
 }
 
 #container h1 {
@@ -22,21 +23,29 @@ body {
 }
 
 #cabecera {
-    background: cyan;
-    color: darkgreen;
+    background: #37488b;
+    color: white;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em 0 0.5em 2em;
     font-weight: bolder;
     box-shadow: 2px 4px 14px 0px #000000;
+    text-align: left;
+}
+
+#cabecera #logo {
+    width: 30px;
+    vertical-align: middle;
 }
 
 #cabecera #tagline {
     font-weight: bold;
     font-size: 0.8em;
+    padding-left: 1em;
     margin: 1em 0 0 0;
-    color: rgb(7, 124, 7);
+    color: rgb(175, 235, 175);
 }
 
 #post {
     padding: 0.3em;
+    background: whitesmoke;
 }
