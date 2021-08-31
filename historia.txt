@@ -10,3 +10,7 @@ Cambio de maestria
 Es una persona dedicada y atenta. No siempre ha sido cómo lo encontramos hoy.
 
 Rodolfo todavía está aprendiendo. Cada día lo hace.
+
+Por ejemplo, este comentario fue actualizado desde el servidor Rasp y usando una cuenta alternativa de github para simular la colaboración. 
+fecha:
+Tue Aug 31 19:29:21 UTC 2021
