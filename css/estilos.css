@@ -49,3 +49,10 @@ body {
     padding: 0.3em;
     background: whitesmoke;
 }
+
+#footer {
+	background: #555;
+	color: white;
+	text-align: center;
+	padding: 0.5em;
+}
