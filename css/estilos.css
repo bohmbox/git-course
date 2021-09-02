@@ -51,8 +51,13 @@ body {
 }
 
 #footer {
-	background: #555;
-	color: white;
-	text-align: center;
-	padding: 0.5em;
+    padding: 0.7em;
+    background: #333;
+    color: rgb(175, 235, 175);
+}
+
+#footer-logo {
+    height:20px;
+    padding-left: 0.3em;
+    vertical-align: middle;
 }
